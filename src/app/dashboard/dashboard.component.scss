@@ -1,0 +1,9 @@
+.progress {
+    --bs-progress-height: 0.5rem
+}
+
+@media (max-width: 575px) {
+    .col-sm-4 {
+      padding: 0 !important;
+    }
+  }
